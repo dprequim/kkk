@@ -1,0 +1,26 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 21 Nov 2022 22:56:22 at https://nft.pixar-worldcup-qatar.com/#mint-part +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://nft.pixar-worldcup-qatar.com/#mint-part -O1 "C:\My Web Sites\pixar\https___nft.pixar-worldcup-qatar.com_#mint-part" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:56:44	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link primary/robots.txt (from primary/primary)
+22:56:44	Warning: 	Retry after error -5 (Unable to get server's address: No such host is known. ) at link primary/mint-part (from primary/primary)
+22:56:53	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link primary/mint-part (from primary/primary)
+22:57:01	Error: 	"Not Found" (404) at link https://nft.pixar-worldcup-qatar.com/images/Preloader_2.gif (from https://nft.pixar-worldcup-qatar.com/css/cryptoz.css)
+22:57:01	Error: 	"Not Found" (404) at link https://nft.pixar-worldcup-qatar.com/images/select-icon.png (from https://nft.pixar-worldcup-qatar.com/css/cryptoz.css)
+22:57:01	Error: 	"Not Found" (404) at link https://nft.pixar-worldcup-qatar.com/images/inner-banner-bg.jpg (from https://nft.pixar-worldcup-qatar.com/css/cryptoz.css)
+22:57:01	Error: 	"Not Found" (404) at link https://nft.pixar-worldcup-qatar.com/images/list-icon.png (from https://nft.pixar-worldcup-qatar.com/css/cryptoz.css)
+22:57:01	Error: 	"Not Found" (404) at link https://nft.pixar-worldcup-qatar.com/images/token-sale-bg.png (from https://nft.pixar-worldcup-qatar.com/css/cryptoz.css)
+22:57:01	Error: 	"Not Found" (404) at link https://nft.pixar-worldcup-qatar.com/images/roadmap-bg.png (from https://nft.pixar-worldcup-qatar.com/css/cryptoz.css)
+22:57:01	Error: 	"Not Found" (404) at link https://nft.pixar-worldcup-qatar.com/images/team-bg.png (from https://nft.pixar-worldcup-qatar.com/css/cryptoz.css)
+22:57:01	Error: 	"Not Found" (404) at link https://nft.pixar-worldcup-qatar.com/images/minus-icon.svg (from https://nft.pixar-worldcup-qatar.com/css/cryptoz.css)
+22:57:01	Error: 	"Not Found" (404) at link https://nft.pixar-worldcup-qatar.com/images/plus-icon.svg (from https://nft.pixar-worldcup-qatar.com/css/cryptoz.css)
+22:57:01	Error: 	"Not Found" (404) at link https://nft.pixar-worldcup-qatar.com/images/contact-bg.png (from https://nft.pixar-worldcup-qatar.com/css/cryptoz.css)
+22:57:01	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link primary/mint-part (from primary/primary)
+22:57:01	Error: 	"Not Found" (404) at link https://nft.pixar-worldcup-qatar.com/images/grabbing.png (from https://nft.pixar-worldcup-qatar.com/css/owl.carousel.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 39 seconds : 49 links scanned, 33 files written (7468016 bytes overall) [5125533 bytes received at 131423 bytes/sec], 3494595 bytes transferred using HTTP compression in 6 files, ratio 30%, 4.1 requests per connection
+(13 errors, 2 warnings, 0 messages)
